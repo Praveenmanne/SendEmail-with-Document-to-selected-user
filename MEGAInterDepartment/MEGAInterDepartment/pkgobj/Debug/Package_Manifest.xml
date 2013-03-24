@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="0d5c01c5-87b6-4c5c-99a0-f21bbb6b56a3" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="MEGAInterDepartment.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="MEGAInterDepartment, Version=1.0.0.0, Culture=neutral, PublicKeyToken=1b5d0142d0da7d00" Namespace="MEGAInterDepartment.InterDepartmentInterface" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\MEGAInterDepartment\InterDepartmentInterface\InterDepartmentInterfaceUserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="MEGAInterDepartment_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

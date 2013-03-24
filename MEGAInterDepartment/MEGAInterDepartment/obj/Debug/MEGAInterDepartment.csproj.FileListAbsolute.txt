@@ -1,0 +1,20 @@
+D:\Falguni\WebParts\MEGA\MEGAInterDepartment\MEGAInterDepartment\bin\Debug\MEGAInterDepartment.dll
+D:\Falguni\WebParts\MEGA\MEGAInterDepartment\MEGAInterDepartment\bin\Debug\MEGAInterDepartment.pdb
+D:\Falguni\WebParts\MEGA\MEGAInterDepartment\MEGAInterDepartment\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+D:\Falguni\WebParts\MEGA\MEGAInterDepartment\MEGAInterDepartment\obj\Debug\ResolveAssemblyReference.cache
+D:\Falguni\WebParts\MEGA\MEGAInterDepartment\MEGAInterDepartment\obj\Debug\MEGAInterDepartment.dll
+D:\Falguni\WebParts\MEGA\MEGAInterDepartment\MEGAInterDepartment\obj\Debug\MEGAInterDepartment.pdb
+\\192.168.4.127\d$\Falguni\WebParts\MEGA\MEGAInterDepartment\MEGAInterDepartment\bin\Debug\MEGAInterDepartment.dll
+\\192.168.4.127\d$\Falguni\WebParts\MEGA\MEGAInterDepartment\MEGAInterDepartment\bin\Debug\MEGAInterDepartment.pdb
+\\192.168.4.127\d$\Falguni\WebParts\MEGA\MEGAInterDepartment\MEGAInterDepartment\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+\\192.168.4.127\d$\Falguni\WebParts\MEGA\MEGAInterDepartment\MEGAInterDepartment\obj\Debug\ResolveAssemblyReference.cache
+\\192.168.4.127\d$\Falguni\WebParts\MEGA\MEGAInterDepartment\MEGAInterDepartment\obj\Debug\MEGAInterDepartment.dll
+\\192.168.4.127\d$\Falguni\WebParts\MEGA\MEGAInterDepartment\MEGAInterDepartment\obj\Debug\MEGAInterDepartment.pdb
+C:\Users\praveen\Desktop\All Attachments [MEGA-Solution File F]\MEGAInterDepartment\MEGAInterDepartment\MEGAInterDepartment\bin\Debug\MEGAInterDepartment.dll
+C:\Users\praveen\Desktop\All Attachments [MEGA-Solution File F]\MEGAInterDepartment\MEGAInterDepartment\MEGAInterDepartment\bin\Debug\MEGAInterDepartment.pdb
+C:\Users\praveen\Desktop\All Attachments [MEGA-Solution File F]\MEGAInterDepartment\MEGAInterDepartment\MEGAInterDepartment\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\praveen\Desktop\All Attachments [MEGA-Solution File F]\MEGAInterDepartment\MEGAInterDepartment\MEGAInterDepartment\bin\Debug\Microsoft.SharePoint.Security.dll
+C:\Users\praveen\Desktop\All Attachments [MEGA-Solution File F]\MEGAInterDepartment\MEGAInterDepartment\MEGAInterDepartment\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\Users\praveen\Desktop\All Attachments [MEGA-Solution File F]\MEGAInterDepartment\MEGAInterDepartment\MEGAInterDepartment\obj\Debug\MEGAInterDepartment.csprojResolveAssemblyReference.cache
+C:\Users\praveen\Desktop\All Attachments [MEGA-Solution File F]\MEGAInterDepartment\MEGAInterDepartment\MEGAInterDepartment\obj\Debug\MEGAInterDepartment.dll
+C:\Users\praveen\Desktop\All Attachments [MEGA-Solution File F]\MEGAInterDepartment\MEGAInterDepartment\MEGAInterDepartment\obj\Debug\MEGAInterDepartment.pdb

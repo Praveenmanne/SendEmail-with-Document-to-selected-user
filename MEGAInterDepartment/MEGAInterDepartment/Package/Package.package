@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="0d5c01c5-87b6-4c5c-99a0-f21bbb6b56a3" solutionId="0d5c01c5-87b6-4c5c-99a0-f21bbb6b56a3" resetWebServer="false" name="MEGAInterDepartment" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="f3225a76-b17c-48d2-80ca-cfeef21fdfd6" />
+  </features>
+</package>

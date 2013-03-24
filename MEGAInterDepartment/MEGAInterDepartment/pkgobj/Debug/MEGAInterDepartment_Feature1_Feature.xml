@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="5b2d73c2-1ae3-4931-ad9d-d396d7b152c9" Scope="Site" Title="MEGAInterDepartment Feature1">
+  <ElementManifests>
+    <ElementManifest Location="InterDepartmentInterface\Elements.xml" />
+    <ElementFile Location="InterDepartmentInterface\InterDepartmentInterface.webpart" />
+  </ElementManifests>
+</Feature>
